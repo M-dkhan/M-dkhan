@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @M-dkhan
-- 👀 I’m interested in Android and Game Development 
+- 👀 I’m interested in Android, Game and Website Development
 - 🌱 I’m currently learning Website Design and Development 
-- 💞️ I’m looking to collaborate on React and Nodejs 
 - 📫 How to reach me via instagram -- md_khan628
 
 <!---
